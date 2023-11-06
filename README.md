@@ -1,6 +1,6 @@
-# Welcome to Sorobounties! 🌿
+# Welcome to Sorobounties!🌿
 
-Between November 15th and December 15th, you can earn awards for building decentralized applications (dapps) with Soroban on the Stellar network’s Testnet (Stellar Testnet), accompanied by explanatory content (such as written tutorials, video walkthroughs, etc.). This program is part of the Stellar Development Foundation’s $100M Soroban adoption fund and is similar to the previous [Sorobounty Spectacular](https://github.com/stellar/sorobounty-spectacular). 
+Between November 15th and December 15th at 7 p.m. Eastern, you can earn awards for building decentralized applications (dapps) with Soroban on the Stellar network’s Testnet (Stellar Testnet), accompanied by explanatory content (such as written tutorials, video walkthroughs, etc.). This program is part of the Stellar Development Foundation’s $100M Soroban adoption fund and is similar to the previous [Sorobounty Spectacular](https://github.com/stellar/sorobounty-spectacular). 
 
 The goal of this program is to provide the structure for application developers to build with Soroban and provide the educational materials for other devs to get up and running quickly on the platform as we approach Mainnet launch. We’re looking for any type of dapp — from basic cryptographic games to NFT projects.
 
