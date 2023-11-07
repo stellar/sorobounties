@@ -34,9 +34,9 @@ Award amounts are determined based on submission components (ex: does the submis
 Here is a breakdown of all content component options:  
 
 - Required: $400 worth of XLM for contract (dapp) code and a live (usable), interactive demo
-- Optional: Add on $150 worth of XLM if your submission includes well-documented code and a detailed README on how to build a dapp on Soroban
-- Optional: Add on $250 worth of XLM if your submission includes a tutorial on building a dapp on Soroban published on dev.to or Medium 
-- Optional: Add on $500 worth of XLM if your submission includes a video tutorial on building a dapp with Soroban published on YouTube
+- Optional: Add on $150 worth of XLM if your submission includes well-documented code and a detailed README on how to build and run your dapp on Soroban
+- Optional: Add on $250 worth of XLM if your submission includes a tutorial on how to build your dapp on Soroban published on dev.to or Medium 
+- Optional: Add on $500 worth of XLM if your submission includes a video tutorial on building and running your dapp with Soroban published on YouTube
 
 Submissions must contain contract (dapp) code and a demo but award amounts can be increased by including any or all of the additional content components. 
 
