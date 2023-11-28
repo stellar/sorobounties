@@ -1,10 +1,10 @@
 # Welcome to Sorobounties!🌿
 
-Between November 15th and December 15th at 7 p.m. Eastern, you can earn awards for building decentralized applications (dapps) with Soroban on the Stellar network’s Testnet (Stellar Testnet), accompanied by explanatory content (such as written tutorials, video walkthroughs, etc.). This program is part of the Stellar Development Foundation’s $100M Soroban adoption fund and is similar to the previous [Sorobounty Spectacular](https://github.com/stellar/sorobounty-spectacular). 
+Between November 15th and December 15th at 7 p.m. Eastern, you can receive awards for building decentralized applications (dapps) with Soroban on the Stellar network’s Testnet (Stellar Testnet), accompanied by explanatory content (such as written tutorials, video walkthroughs, etc.). This program is part of the Stellar Development Foundation’s $100M Soroban adoption fund and is similar to the previous [Sorobounty Spectacular](https://github.com/stellar/sorobounty-spectacular). 
 
 The goal of this program is to provide the structure for application developers to build with Soroban and provide the educational materials for other devs to get up and running quickly on the platform as we approach Mainnet launch. We’re looking for any type of dapp — from basic cryptographic games to NFT projects.
 
-For each qualified submission you create, you can earn an award of between $400 and $1,300 worth of XLM. 
+For each qualified submission you create, you can may be eligible to receive an award of between $400 and $1,300 worth of XLM. 
 
 ## Need some inspiration?
 
@@ -22,8 +22,8 @@ The Stellar Development Foundation (“SDF”) will review submissions as they c
 
 Your submission should be coherent and easy to follow. If you are creating a tutorial, the audience needs to be able to follow along. If you are writing code, what it does should be clear. All content and contract code also need to be public (GitHub, dev.to, Medium, or YouTube).
 
-Awards will be based on the scope, complexity, and quality of the submission. That said, here is a rough idea of what certain types of submissions can earn.
-If your submission is just dapp code and a demo, you are eligible to earn up to $400 worth of XLM. The award amount increases to up to $1,300 worth of XLM based on the accompanying content: from decent READMEs to published written tutorials on dev.to to video tutorials on YouTube. The more you include in your submission, the better!
+Awards will be based on the scope, complexity, and quality of the submission. That said, here is a rough idea of what certain types of submissions can receive.
+If your submission is just dapp code and a demo, you are eligible to receive up to $400 worth of XLM. The award amount increases to up to $1,300 worth of XLM based on the accompanying content: from decent READMEs to published written tutorials on dev.to to video tutorials on YouTube. The more you include in your submission, the better!
 
 **Note:** SDF is under no obligation to make any awards if there are no eligible submissions or Eligible Individuals (as defined below), or if Eligible Individuals do not successfully complete the compliance and tax obligations set forth below.
 
@@ -67,7 +67,7 @@ If you haven't already, check out the [Soroban docs](https://soroban.stellar.org
 7. Add your submission.  Feel free to put it right in the box, or to link to an external resource.
 8. Your submission should then be posted on the Discussions page
 
-We will review your submission within three weeks (this is subject to be longer depending on the holidays) and reply on your submission thread to let you know if your submission qualifies to earn an award! If so, we will ask you to complete a form to collect the info necessary to validate and deliver an award.
+We will review your submission within three weeks (this is subject to be longer depending on the holidays) and reply on your submission thread to let you know if your submission qualifies to receive an award! If so, we will ask you to complete a form to collect the info necessary to validate and deliver an award.
 
 If your submission did not qualify, we may provide you with feedback on what's missing or on how you can improve your submission so it qualifies. Once you have made the requested revisions, we will re-review your submission and let you know if your submission qualifies for an award.
 
