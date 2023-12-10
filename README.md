@@ -1,6 +1,6 @@
 # Welcome to Sorobounties!🌿
 
-Between November 15th and December 15th at 7 p.m. Eastern, you can receive awards for building decentralized applications (dapps) with Soroban on the Stellar network’s Testnet (Stellar Testnet), accompanied by explanatory content (such as written tutorials, video walkthroughs, etc.). This program is part of the Stellar Development Foundation’s $100M Soroban adoption fund and is similar to the previous [Sorobounty Spectacular](https://github.com/stellar/sorobounty-spectacular). 
+Between November 15th and December 15th at 7 p.m. Eastern, you can receive awards for building decentralized applications (dapps) with Soroban on the Stellar network’s Testnet (Stellar Testnet) or Futurenet, accompanied by explanatory content (such as written tutorials, video walkthroughs, etc.). This program is part of the Stellar Development Foundation’s $100M Soroban adoption fund and is similar to the previous [Sorobounty Spectacular](https://github.com/stellar/sorobounty-spectacular). 
 
 The goal of this program is to provide the structure for application developers to build with Soroban and provide the educational materials for other devs to get up and running quickly on the platform as we approach Mainnet launch. We’re looking for any type of dapp — from basic cryptographic games to NFT projects.
 
@@ -14,7 +14,7 @@ You can create:
 - Fun dapp tutorials (such as [Cowchain Farm](https://github.com/stellar/sorobounty-spectacular/discussions/14))
 - Video walkthroughs (such as this one on [regulated assets](https://www.youtube.com/playlist?list=PLJo7htkGqBrFIHg6keCRRYjf6AEB1m1wo))
 
-Soroban is currently live on Stellar Testnet. You may encounter some problems as you are using the platform and various tools. We encourage you to report any problems or bugs you find in our Stellar Developer Discord under the #soroban channels.
+Soroban is currently live on Stellar Testnet and Futurenet. You may encounter some problems as you are using the platform and various tools. We encourage you to report any problems or bugs you find in our Stellar Developer Discord under the #soroban channels.
 
 ## What makes a good submission
 
